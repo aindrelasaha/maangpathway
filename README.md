@@ -1,6 +1,6 @@
 # Maang Pathways: Your Guide to Success MAANG companies
 
-## Overview
+## Overview📝🔍
 
 Welcome to Maang Pathways!👋🏼 Whether you're an aspiring computer science student or someone who has navigated branch sliding, we've got you covered. Our platform provides roadmaps and resources to help you excel in competitive programming, prepare for job interviews, and ace online assessments (OAs). Let's explore what Maang Pathways has to offer:
 ![image](https://github.com/aindrelasaha/maangpathway/assets/126545390/6695c4de-a453-4b90-a93c-ae99df89a5cc)
@@ -9,7 +9,7 @@ Welcome to Maang Pathways!👋🏼 Whether you're an aspiring computer science s
 ---
 
 
-## Features
+## Features🌟
 ![image](https://github.com/aindrelasaha/maangpathway/assets/126545390/c4114abc-c100-4cdd-9fe5-e3549f383946)
 
 
@@ -21,7 +21,7 @@ Welcome to Maang Pathways!👋🏼 Whether you're an aspiring computer science s
 2. **Competitive Programming Resources:**
    - Dive into curated materials for algorithms, data structures, and problem-solving.
    - Explore practice problems, coding challenges, and real-world examples.
-   - Sharpen your skills and participate in coding contests.
+   - Sharpen your skills 🧠 and participate in coding contests.
 ![image](https://github.com/aindrelasaha/maangpathway/assets/126545390/ac021df6-d6dc-4502-9f90-4ff201bbc173)
 
 3. **Job Interview Prep:**
@@ -40,7 +40,7 @@ Welcome to Maang Pathways!👋🏼 Whether you're an aspiring computer science s
 </div>
 <br>
 
-Thank you for your feedback! We're committed to enhancing the Maang Pathways platform. Here are the improvements we're working on:
+Thank you 😊 for your feedback! We're committed to enhancing the Maang Pathways platform. Here are the improvements we're working on:
 
 1. **Upcoming Features:**
    - We'll prominently display upcoming features on the UI. Stay tuned for exciting updates!
