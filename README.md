@@ -1,4 +1,4 @@
-# Maang Pathways: Your Guide to Success
+# Maang Pathways: Your Guide to Success MAANG companies
 
 ## Overview
 
