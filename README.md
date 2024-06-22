@@ -1,4 +1,4 @@
-# Maang Pathways: Your Guide to Success MAANG companies
+# Maang Pathways: Your Guide to Success MAANG companies🛣️
 
 ## Overview📝🔍
 
@@ -13,23 +13,23 @@ Welcome to Maang Pathways!👋🏼 Whether you're an aspiring computer science s
 ![image](https://github.com/aindrelasaha/maangpathway/assets/126545390/c4114abc-c100-4cdd-9fe5-e3549f383946)
 
 
-1. **Customized Roadmaps:**
+1. **Customized Roadmaps🛣️:**
    - Choose your path based on your current status (CS student or branch slider).
    - Access personalized roadmaps that outline essential topics, skills, and milestones.
    - Stay on track with clear objectives and checkpoints.
 
-2. **Competitive Programming Resources:**
+2. **Competitive Programming Resources📚:**
    - Dive into curated materials for algorithms, data structures, and problem-solving.
    - Explore practice problems, coding challenges, and real-world examples.
    - Sharpen your skills 🧠 and participate in coding contests.
 ![image](https://github.com/aindrelasaha/maangpathway/assets/126545390/ac021df6-d6dc-4502-9f90-4ff201bbc173)
 
-3. **Job Interview Prep:**
+3. **Job Interview Prep📅:**
    - Master technical interviews with our comprehensive guides.
    - Learn about behavioral questions, system design, and whiteboard coding.
    - Access mock interviews and receive feedback.
 
-4. **OA Success Strategies:**
+4. **OA Success Strategies♟🧠:**
    - Crack online assessments for top companies (Microsoft, Google, Goldman Sachs, and more).
    - Understand common patterns, time management, and effective problem-solving techniques.
    - Boost your confidence and maximize your chances of success
@@ -42,15 +42,15 @@ Welcome to Maang Pathways!👋🏼 Whether you're an aspiring computer science s
 
 Thank you 😊 for your feedback! We're committed to enhancing the Maang Pathways platform. Here are the improvements we're working on:
 
-1. **Upcoming Features:**
+1. **Upcoming Features🔜🌟:**
    - We'll prominently display upcoming features on the UI. Stay tuned for exciting updates!
    - Expect a cleaner, more intuitive design that highlights what's coming next.
 
-2. **Improved Readability:**
+2. **Improved Readability📈:**
    - We're revamping the page layout for better readability.
    - Clear headings, concise content, and organized sections will make navigation a breeze.
 
-3. **Cracking Maang: Resources:**
+3. **Cracking Maang: Resources📁:**
    - We're expanding our resources section to help you crack Maang challenges.
    - Look out for practice problems, tips, and success strategies tailored to your needs.
 
