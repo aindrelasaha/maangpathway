@@ -36,7 +36,7 @@ Welcome to Maang Pathways!👋🏼 Whether you're an aspiring computer science s
 <br>
 <div style="display: flex; flex-direction: row; ">
     <img src="https://github.com/Nishcurse/ignore-/assets/114647752/9561c893-0865-4fd4-93de-bb71a0cc9ddd" style="width: auto; height: 300px; flex: 1;">
-    <img src="https://github.com/Nishcurse/ignore-/assets/114647752/55d36fd4-b474-467c-aa2f-55edcc2700f1" style="width: auto; height: 300px; flex: 1;">
+    <img src="https://github.com/Nishcurse/ignore-/assets/114647752/55d36fd4-b474-467c-aa2f-55edcc2700f1" style="width: auto; height: auto; flex: 1;">
 </div>
 <br>
 
