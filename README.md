@@ -4,8 +4,7 @@
 
 Welcome to Maang Pathways!👋🏼 Whether you're an aspiring computer science student or someone who has navigated branch sliding, we've got you covered. Our platform provides roadmaps and resources to help you excel in competitive programming, prepare for job interviews, and ace online assessments (OAs). Let's explore what Maang Pathways has to offer:
 <div style="display: flex; flex-direction: row; ">
-    <img src="https://github.com/Nishcurse/ignore-/assets/114647752/5c0587bd-970b-43d0-ab3e-103bf569cad3" style="width: auto; height: 300px; flex: 1;">
-    <img src="https://github.com/Nishcurse/ignore-/assets/114647752/23b5482a-01d5-42d1-ba94-4a9024a7a54e" style="width: auto; height: 300px; flex: 1;">
+![image](https://github.com/aindrelasaha/maangpathway/assets/126545390/6695c4de-a453-4b90-a93c-ae99df89a5cc)
 </div>
 <br>
 
@@ -13,6 +12,8 @@ Welcome to Maang Pathways!👋🏼 Whether you're an aspiring computer science s
 
 
 ## Features
+![image](https://github.com/aindrelasaha/maangpathway/assets/126545390/c4114abc-c100-4cdd-9fe5-e3549f383946)
+
 
 1. **Customized Roadmaps:**
    - Choose your path based on your current status (CS student or branch slider).
@@ -23,6 +24,7 @@ Welcome to Maang Pathways!👋🏼 Whether you're an aspiring computer science s
    - Dive into curated materials for algorithms, data structures, and problem-solving.
    - Explore practice problems, coding challenges, and real-world examples.
    - Sharpen your skills and participate in coding contests.
+![image](https://github.com/aindrelasaha/maangpathway/assets/126545390/ac021df6-d6dc-4502-9f90-4ff201bbc173)
 
 3. **Job Interview Prep:**
    - Master technical interviews with our comprehensive guides.
